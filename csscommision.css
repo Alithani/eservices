@@ -1,0 +1,46 @@
+.table {
+	
+	background-color:#43C6DB;
+	float:right;
+	width:700px;
+	border-top:1px solid #eee;
+	/*border-collapse: separate;*/
+    border-spacing: 0;
+	/*border: 1px solid black;*/
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 5px;
+}
+.table .txt {
+	border-bottom:1px dotted #eee;
+	display:block;
+	line-height:10px;
+	overflow:auto;
+	padding:10px 0px;
+	width:100%;
+	text-align:center;
+}
+.table .commision {
+	text-shadow:#000000;
+
+}
+#summation {
+                font-size: 18px;
+                font-weight: bold;
+                color:#174C68;
+}
+#myPage .container-fluid-k {
+	float:right;
+}
+.test {
+	float:right;
+}
+.content {
+	
+	width:700px;
+	float:right;
+}
+#text {
+	text-align:left;
+	text-shadow:#000000;
+}
